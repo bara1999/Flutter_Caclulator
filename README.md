@@ -1,4 +1,12 @@
 # calcuater
+![3](https://user-images.githubusercontent.com/67365371/156846978-4f516a68-a67c-4a5a-acc8-5922d68dc1ef.PNG)
+![1ggggggggggggggggggggggggggggggggg](https://user-images.githubusercontent.com/67365371/156847660-3ae0fe6b-96b2-410b-8062-b994ab971854.PNG)
+
+![4](https://user-images.githubusercontent.com/67365371/156846986-0fbb8678-e798-44e4-b91b-6dc17429d0d2.PNG)
+![5](https://user-images.githubusercontent.com/67365371/156846993-bf5a004a-b862-4b11-98a4-076737a89366.PNG)
+![6](https://user-images.githubusercontent.com/67365371/156847011-9c7ac025-c256-40a0-8215-e04a1f590639.PNG)
+
+
 
 A new Flutter application.
 
